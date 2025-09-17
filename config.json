@@ -1,0 +1,8 @@
+{
+  "start_hour": 9,
+  "end_hour": 17,
+  "email_notifications": false,
+  "email_sender": "youremail@gmail.com",
+  "email_password": "your-app-password",
+  "email_receiver": "receiveremail@gmail.com"
+}
